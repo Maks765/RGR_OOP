@@ -1,0 +1,9 @@
+D:\ООП\РГР(Волик)\РГР(Волик)\bin\Debug\РГР(Волик).exe.config
+D:\ООП\РГР(Волик)\РГР(Волик)\bin\Debug\РГР(Волик).exe
+D:\ООП\РГР(Волик)\РГР(Волик)\bin\Debug\РГР(Волик).pdb
+D:\ООП\РГР(Волик)\РГР(Волик)\obj\Debug\РГР(Волик).csproj.AssemblyReference.cache
+D:\ООП\РГР(Волик)\РГР(Волик)\obj\Debug\РГР_Волик_.Properties.Resources.resources
+D:\ООП\РГР(Волик)\РГР(Волик)\obj\Debug\РГР(Волик).csproj.GenerateResource.cache
+D:\ООП\РГР(Волик)\РГР(Волик)\obj\Debug\РГР(Волик).csproj.CoreCompileInputs.cache
+D:\ООП\РГР(Волик)\РГР(Волик)\obj\Debug\РГР(Волик).exe
+D:\ООП\РГР(Волик)\РГР(Волик)\obj\Debug\РГР(Волик).pdb
